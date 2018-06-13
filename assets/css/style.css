@@ -18,3 +18,16 @@ body {
     height: 60px;
     line-height: 60px;
 }
+.portfolioImageLink {
+    top: 55%;
+    left: 0;
+    width: 100%;
+    position: absolute;
+    background-color: #299;
+    color: white;
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 50px;
+    text-decoration: none;
+    text-align: center;
+}
